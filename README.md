@@ -129,3 +129,17 @@ CHANGED: 2 rows
 
 💝 If csvdiff saved you time, consider supporting its development:
 **爱发电 / Afdian → https://afdian.com/a/Zhiyilang** · ⭐ Star the repo!
+
+<!-- cross-links -->
+
+## 🔗 More zero-dependency tools
+
+All of these are single-file, pure Python-stdlib CLIs — offline, no `pip install`, cross-platform:
+
+- **billfusion** — Bill / CSV merging · <https://github.com/Zhiyilang/billfusion>
+- **lanshare** — LAN file transfer · <https://github.com/Zhiyilang/lanshare>
+- **dupescan** — Duplicate file finder · <https://github.com/Zhiyilang/dupescan>
+- **md2html** — Markdown to HTML · <https://github.com/Zhiyilang/md2html>
+- **dirsize** — Directory size analyzer · <https://github.com/Zhiyilang/dirsize>
+
+Full portfolio & docs: <https://zhiyilang.github.io/>
