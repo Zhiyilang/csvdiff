@@ -134,7 +134,7 @@ CHANGED: 2 rows
 ---
 
 💝 If csvdiff saved you time, consider supporting its development:
-**爱发电 / Afdian → https://afdian.com/a/Zhiyilang** · ⭐ Star the repo!
+**爱发电 / Afdian → https://afdian.com/a/Zhiyilang074811** · ⭐ Star the repo!
 
 <!-- cross-links -->
 
